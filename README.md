@@ -1,11 +1,11 @@
 # CSS-Radio-Box-Viewer
-# based on the extension apply-css located at https://github.com/mdn/webextensions-examples/tree/master/apply-css
+based on the extension apply-css located at https://github.com/mdn/webextensions-examples/tree/master/apply-css
 
-**This add-on injects CSS into web pages. The `addons.mozilla.org` domain disallows this operation, so this add-on will not work properly when it's run on pages in the `addons.mozilla.org` domain.**
+**This Firefox add-on injects CSS into web pages. The `addons.mozilla.org` domain disallows this operation, so this add-on will not work properly when it's run on pages in the `addons.mozilla.org` domain.**
 
 ## What it does
 
-This extension includes:
+This Firefox extension includes:
 
 * a background script, "background.js"
 * a page action

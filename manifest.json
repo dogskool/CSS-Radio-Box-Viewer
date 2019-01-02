@@ -2,9 +2,9 @@
 
   "description": "Adds a page action to toggle applying CSS to pages.",
   "manifest_version": 2,
-  "name": "apply-css",
+  "name": "CSS-Radio-Box-Viewer",
   "version": "1.0",
-  "homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/apply-css",
+  "homepage_url": "https://github.com/dogskool/CSS-Radio-Box-Viewer",
 
   "background": {
     "scripts": ["background.js"]
